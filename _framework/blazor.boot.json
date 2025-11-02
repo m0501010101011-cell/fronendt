@@ -1,7 +1,7 @@
 {
   "mainAssemblyName": "Attrak",
   "resources": {
-    "hash": "sha256-V6V/icYF2bJQYYMautGtWoHmaKj2EjDY8Z+u5Kt8YvY=",
+    "hash": "sha256-052Doq3arWUYAwviQs3gsuckA3dSPAp0lKPvlMLw95U=",
     "jsModuleNative": {
       "dotnet.native.js": "sha256-nVB+IIrEMZyzYc18/q6Ztgcx9N4PFM4b0KiWbViPINI="
     },
@@ -18,7 +18,7 @@
     },
     "coreAssembly": {},
     "assembly": {
-      "Attrak.wasm": "sha256-0xPq6/pKoXvQbOa3PrE+tuOHSHKmNwccbnqlCsy3i7A=",
+      "Attrak.wasm": "sha256-d/ysMhLEL2HYWIgJlis6jr5sx0uLe5YeKTUZlVlHSzU=",
       "Microsoft.AspNetCore.Components.Forms.wasm": "sha256-97THqin7oWvZXJOM7ayV5hkIRr57Wd4IGSWaBDmgnwo=",
       "Microsoft.AspNetCore.Components.wasm": "sha256-3LKQe+oJj/8F390SNzh8SYAsOSNClvSjtfkyRhxzlEQ=",
       "Microsoft.AspNetCore.Components.Web.wasm": "sha256-X2Q8gmGPFrDDdjQXvblnpagvHuWkitDFB0glSHxmQcE=",
